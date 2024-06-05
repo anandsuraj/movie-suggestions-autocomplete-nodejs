@@ -27,7 +27,7 @@ Movie Suggestions Autocomplete is a web application built with Node.js and Expre
 
 ## Demo
 
-You can find a live demo of this application [here](https://raw.githubusercontent.com/anandsuraj/movie-suggestions-autocomplete-nodejs/main/index.js).
+You can find a live demo of this application [here](https://jsfiddle.net/suraj_anand_24/yuLhxm2b/7/).
 
 ## Technologies Used
 
